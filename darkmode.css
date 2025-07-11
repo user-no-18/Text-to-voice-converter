@@ -1,0 +1,20 @@
+ .dark-mode {
+    background: #222;
+    color: rgba(222, 222, 222, 0.9);
+    
+  }
+  .dark-mode textarea,
+  .dark-mode select,
+  .dark-mode button {
+    background: #333;
+    color: rgba(222, 222, 222, 0.9);
+    border-color: #444;
+    margin-top: 1rem;
+  }
+  .dark-mode .container{
+    background: #2c2c2c;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+
+ 
